@@ -7,10 +7,8 @@
 
 __GSE IDs:__ _GSE63312, GSE78224, GSE74018, GSE50734, GSE114644, GSE60477, GSE53599, GSE80582, GSE109493, GSE35200_
 
-## Achieved properly
-Script does 3 things :
-   1.) Gets basic info for some sequencing projects using GSE IDs from NCBI website
-   2.) Failes to annotates the summary info from above scraped data using becas apis due to some server error from their side
-   3.) Creates a database and adds the fetched data into it. Also added some query"s to
-   fetch & retrieve data
+## Milestones achieved
+   1.) Get basic info using GSE IDs from NCBI website for some sequencing projects.
+   2.) Annotate the summary info from above scraped data using becas apis. (not working due to some server error from their side)
+   3.) Creates a database and add the fetched data into it. (Eg. query's to fetch & retrieve data)
    
